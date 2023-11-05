@@ -40,6 +40,12 @@ To run this project, follow these steps:
 Clone the repository to your local machine.
 Ensure you have Python installed, along with the required libraries.
 Run the Jupyter Notebook or google colab script to execute the code.
+
+or
+
+just open  the file of the project you will find a colab button at the top of the page navigating you to the project
+
+
 Results
 The trained machine learning model achieves an accuracy of approximately 72.2 on the test dataset because of Lack of Sufficient Data: Having a small dataset can limit the ability of the model to learn complex relationships. More data often leads to better performance. This indicates its effectiveness in predicting diabetes onset based on the provided features.
 
